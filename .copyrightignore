@@ -1,0 +1,4 @@
+roles/tls-trust/files/openssl.cnf
+roles/tls-trust/files/public/ardana-internal-cacert.pem
+roles/tls-trust/files/public/frontend_cacert.pem
+roles/tls-frontend/files/public/my-public-cert
